@@ -1,35 +1,23 @@
 Web-Resources
 =============
 
-搜集了我常用的资源集合：
-* [官网](#官方文档)
-* [兼容](#查看兼容)·
-* [论坛](#前端论坛)
-* [周刊](#前端周刊)
-* [书籍](#视频书籍)
-* [导航](#综合导航)·
+搜集了我常用的资源集合：·官网··论坛··Blog··UED··周刊·等... ...
 
 ##官方文档
 |名称|详细介绍|
 | ----- | ----- |
-|[W3C](http://www.w3school.com.cn/)|推荐。|
-|[W3](http://www.w3.org/)|推荐。|
-|[MDN](https://developer.mozilla.org/zh-CN/)|推荐。|
+|[W3C](http://www.w3school.com.cn/)|推荐。官方文档|
+|[W3](http://www.w3.org/)|推荐。官方文档（英文）|
+|[MDN](https://developer.mozilla.org/zh-CN/)|推荐。官方文档|
 |[MSDN](http://msdn.microsoft.com/zh-cn/ie/bg125381)|微软最新技术标准|
 |[HTML5](http://www.w3.org/html/ig/zh/wiki/%E7%BF%BB%E8%AF%91)|W3下的一个html5翻译小组|
-
-##查看兼容
-|名称|详细介绍|
-| ----- | ----- |
-|[HTML5/CSS3](http://fmbip.com/litmus/)|推荐|
-|[ES5/6/7支持性](http://kangax.github.io/compat-table/es5/)|推荐.|
 
 ##前端论坛
 |名称|详细介绍|
 | ----- | ----- |
 |[W3CFUNS](http://www.w3cfuns.com/)|推荐。活跃度挺高的|
 |[问答社区](http://stackoverflow.com/)|（英文）|
-|[乱炖](http://www.html-js.com/)|专栏|
+|[乱炖](http://www.html-js.com/)|这个不怎么会玩，不过里面的内容还不错|
 |[W3CTECH](http://www.w3ctech.com/)|活动|
 
 ##前端周刊
