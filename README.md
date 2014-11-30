@@ -3,6 +3,7 @@ Web-Resources
 
 搜集了我常用的资源集合：
 * [官网](#官方文档)
+* [手册](#手册API)
 * [兼容](#查看兼容)·
 * [论坛](#前端论坛)
 * [周刊](#前端周刊)
@@ -13,6 +14,12 @@ Web-Resources
 |名称|详细介绍|
 | ----- | ----- |
 |[W3C](http://www.w3school.com.cn/)|推荐。|
+|[Angular](http://www.ngnice.com/docs/api)|推荐。|
+
+##手册API
+|名称|详细介绍|
+| ----- | ----- |
+|[CSS](http://css.doyoe.com/)|推荐。|
 |[W3](http://www.w3.org/)|推荐。|
 |[MDN](https://developer.mozilla.org/zh-CN/)|推荐。|
 |[MSDN](http://msdn.microsoft.com/zh-cn/ie/bg125381)|微软最新技术标准|
