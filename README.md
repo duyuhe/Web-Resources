@@ -38,6 +38,7 @@ Web-Resources
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
 |[Mars](https://github.com/duyuhe/Mars)|腾讯移动Web前端知识库|[前端面试](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|没有答案|
+|[简历模板](https://github.com/duyuhe/ResumeSample)||[远程协作](https://github.com/duyuhe/remote-working)||
 
 
 
