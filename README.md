@@ -38,6 +38,7 @@ Web-Resources
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
 |[Mars](https://github.com/duyuhe/Mars)|腾讯移动Web前端知识库|[前端面试](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|没有答案|
+|[前端图谱](https://github.com/duyuhe/fks)|[前端工具](https://www.codefellows.org/blog/a-list-of-foundational-javascript-tools)|[知识列表](https://platform.html5.org/)||
 |[简历模板](https://github.com/duyuhe/ResumeSample)||[远程协作](https://github.com/duyuhe/remote-working)||
 
 
@@ -72,7 +73,7 @@ Web-Resources
 ##综合导航
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
-|[WHYCSS](http://whycss.com/)|推荐。分类细、内容丰富|[苦逼网](http://www.kubition.com/)|推荐。论坛、活动、求职、娱乐（前端资源少）|
+|[WHYCSS](http://whycss.com/)|推荐。分类细、内容丰富|[苦逼网](http://www.kubition.com/)|推荐。|
 |[前端收集](https://github.com/duyuhe/front-end-collect)|周刊、达人推荐、书籍|[代码库](http://www.zhihu.com/question/21034316)|代码展示、教程|
 |[js框架](http://www.javascripting.com/)|不求人|||
 
@@ -80,8 +81,8 @@ Web-Resources
 ##辅助工具
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
-|[思维导图](http://naotu.baidu.com/edit.html)||[在线打字](http://www.ratatype.com/)||
-|[注册查询](http://www.reg007.com/)|看看你注册过那些网站|[前端工具](https://www.codefellows.org/blog/a-list-of-foundational-javascript-tools)|前端工具集合|
+|[思维导图](http://naotu.baidu.com/edit.html)||[cssgrace](https://github.com/duyuhe/cssgrace)|css编辑器，自动扩展HACK|
+
 
 
 ##休闲娱乐
@@ -89,4 +90,5 @@ Web-Resources
 | ----- | ----- | ----- | ----- |
 |[白噪音](https://www.teambition.com/nature)||[日本街拍](http://www.style-arena.jp/)||
 |[世界美景](http://www.airpano.ru/)|360°查看、航拍|[回声](http://echo.kibey.com/)|一个发现声音的地方|
+|[注册查询](http://www.reg007.com/)|看看你注册过那些网站|[在线打字](http://www.ratatype.com/)||
 
