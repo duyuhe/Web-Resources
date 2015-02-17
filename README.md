@@ -4,7 +4,7 @@ Web-Resources
 搜集了我常用的资源集合：
 * [官网](#官方文档)
 * [手册](#手册尺寸)
-* [兼容](#查看兼容)
+* [兼容](#兼容规范)
 * [知识](#知识管理)
 * [书籍](#视频书籍)
 * [论坛](#前端论坛)
@@ -28,10 +28,14 @@ Web-Resources
 |[3C](http://chicun.in/)|推荐。|[移动尺寸](http://screensiz.es/phone)|手机、平板|
 
 
-##查看兼容
+##兼容规范
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
 |[HTML5/CSS3](http://fmbip.com/litmus/)|推荐|[ES5/6/7支持性](http://kangax.github.io/compat-table/es5/)|推荐.|
+|[HTML/JS](http://www.quirksmode.org/compatibility.html)|推荐,Mark下的资料|[HACK](http://browserhacks.com/)|推荐.|
+|[spec](https://github.com/duyuhe/spec)|推荐,规范|[AlloyTeam](http://alloyteam.github.io/code-guide/)|规范，基于GitHub的书写习惯|
+
+
 
 
 ##知识管理
