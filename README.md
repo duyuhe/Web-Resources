@@ -33,7 +33,7 @@ Web-Resources
 | ----- | ----- | ----- | ----- |
 |[HTML5/CSS3](http://fmbip.com/litmus/)|推荐|[ES5/6/7支持性](http://kangax.github.io/compat-table/es5/)|推荐.|
 |[HTML/JS](http://www.quirksmode.org/compatibility.html)|兼容性,Mark下的资料|[HACK](http://browserhacks.com/)|推荐.|
-|[spec](https://github.com/duyuhe/spec)|推荐,[JS/JQ风格指南]（https://github.com/duyuhe/javascript-code）|[AlloyTeam](http://alloyteam.github.io/code-guide/)|基于GitHub的规范|
+|[spec](https://github.com/duyuhe/spec)|推荐,[JS/JQ风格指南](https://github.com/duyuhe/javascript-code)|[AlloyTeam](http://alloyteam.github.io/code-guide/)|基于GitHub的规范|
 
 
 
@@ -51,7 +51,7 @@ Web-Resources
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
 |[慕课网](http://www.imooc.com/)|推荐。课程内容短小精悍|[国外付费](https://www.udemy.com/courses/)|课程全面|
-|[极客标签](http://www.gbtags.com/gb/index.htm)|推荐。|[网易云课堂](http://study.163.com/)|都是一些公开课，相当于各教学机构做广告|
+|[极客标签](http://www.gbtags.com/gb/index.htm)|推荐。|[网易云课堂](http://study.163.com/)|计算机图谱|
 |[计算机公开课](https://github.com/prakhar1989/awesome-courses)|英文|[大学MOOC](http://blog.sunner.cn/recommended-mooc-for-programmers/)|优质中文课程，[PDF讲义](http://www.jingpinke.com/)|
 |[英文书籍](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)|英文、部分含视频|[中文书籍](https://github.com/duyuhe/free-programming-books-zh_CN)|推荐|
 |[图灵](http://www.ituring.com.cn/)|部分在线可看|||
