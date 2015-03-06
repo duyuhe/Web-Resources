@@ -16,8 +16,8 @@ Web-Resources
 ##官方文档
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
-|[W3C](http://www.w3school.com.cn/)|推荐。|[MDN](https://developer.mozilla.org/zh-CN/)|推荐。|
-|[W3](http://www.w3.org/)|推荐。|[MSDN](http://msdn.microsoft.com/zh-cn/ie/bg125381)|微软最新技术标准|
+|[W3C](http://www.w3school.com.cn/)|推荐。[ES6](https://github.com/lenville/es6features/blob/master/README.md)|[MDN](https://developer.mozilla.org/zh-CN/)|推荐。|
+|[W3](http://www.w3.org/)|推荐。|[MSDN](http://msdn.microsoft.com/zh-cn/ie/bg125381)|微软,[TypeScript](http://www.typescriptlang.org/)|
 |[菜鸟](http://www.w3cschool.cc/)|不错|[HTML5](http://www.w3.org/html/ig/zh/wiki/%E7%BF%BB%E8%AF%91)|W3下的一个html5翻译小组|
 
 
@@ -32,8 +32,8 @@ Web-Resources
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
 |[HTML5/CSS3](http://fmbip.com/litmus/)|推荐|[ES5/6/7支持性](http://kangax.github.io/compat-table/es5/)|推荐.|
-|[HTML/JS](http://www.quirksmode.org/compatibility.html)|推荐,Mark下的资料|[HACK](http://browserhacks.com/)|推荐.|
-|[spec](https://github.com/duyuhe/spec)|推荐,规范|[AlloyTeam](http://alloyteam.github.io/code-guide/)|规范，基于GitHub的书写习惯|
+|[HTML/JS](http://www.quirksmode.org/compatibility.html)|兼容性,Mark下的资料|[HACK](http://browserhacks.com/)|推荐.|
+|[spec](https://github.com/duyuhe/spec)|推荐,[JS/JQ风格指南]（https://github.com/duyuhe/javascript-code）|[AlloyTeam](http://alloyteam.github.io/code-guide/)|基于GitHub的规范|
 
 
 
@@ -71,7 +71,7 @@ Web-Resources
 | ----- | ----- | ----- | ----- |
 |[奇舞团](http://www.75team.com/weekly/)|推荐。js、css等都有|[编程狂人](http://www.tuicool.com/mags)|推荐。每周二更新|
 |[OurJs](http://ourjs.com/)|推荐。每天都有推荐|[码农周刊](http://weekly.manong.io/issues/?ref=weibo)|[分类](https://github.com/duyuhe/manong)|
-|[FEWeekly](http://www.feweekly.com/)|推荐|||
+|[FEWeekly](http://www.feweekly.com/)|推荐|[Web日报](http://web.memect.com/)|推荐|
 
 
 ##综合导航
