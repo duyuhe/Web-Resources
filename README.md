@@ -33,7 +33,7 @@ Web-Resources
 | ----- | ----- | ----- | ----- |
 |[HTML5/CSS3](http://fmbip.com/litmus/)|推荐|[ES5/6/7支持性](http://kangax.github.io/compat-table/es5/)|推荐.|
 |[HTML/JS](http://www.quirksmode.org/compatibility.html)|兼容性,Mark下的资料|[HACK](http://browserhacks.com/)|推荐.|
-|[spec](https://github.com/duyuhe/spec)|推荐,[JS风格指南](https://github.com/airbnb/javascript)|[AlloyTeam](http://alloyteam.github.io/code-guide/)|基于GitHub的规范|
+|[spec](https://github.com/duyuhe/spec)|推荐,[JS风格指南](https://github.com/airbnb/javascript/tree/es6?utm_source=javascriptweekly&utm_medium=email)|[AlloyTeam](http://alloyteam.github.io/code-guide/)|基于GitHub的规范|
 
 
 
