@@ -16,7 +16,7 @@ Web-Resources
 ##官方文档
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
-|[W3C](http://www.w3school.com.cn/)|[ES6](https://github.com/ES-CN/es6features)][ES6](https://github.com/lenville/es6features/blob/master/README.md)|[MDN](https://developer.mozilla.org/zh-CN/)|推荐。|
+|[W3C](http://www.w3school.com.cn/)|[ES6](https://github.com/lenville/es6features/blob/master/README.md)|[MDN](https://developer.mozilla.org/zh-CN/)|推荐。|
 |[W3](http://www.w3.org/)|推荐。|[MSDN](http://msdn.microsoft.com/zh-cn/ie/bg125381)|微软,[TypeScript](http://www.typescriptlang.org/)|
 |[菜鸟](http://www.w3cschool.cc/)|不错|[HTML5](http://www.w3.org/html/ig/zh/wiki/%E7%BF%BB%E8%AF%91)|W3下的一个html5翻译小组|
 
