@@ -80,7 +80,7 @@ Web-Resources
 | ----- | ----- | ----- | ----- |
 |[WHYCSS](http://whycss.com/)|推荐。分类细、内容丰富|[苦逼网](http://www.kubition.com/)|推荐。|
 |[前端收集](https://github.com/duyuhe/front-end-collect)|周刊、达人推荐、书籍|[代码库](http://www.zhihu.com/question/21034316)|代码展示、教程|
-|[JS框架](http://www.javascripting.com/)|不求人|[工具/库](https://github.com/JingwenTian/awesome-frontend)||
+|[lesslinks](http://www.lesslinks.com/)|各种工具、框架和教程集合|[工具/库](https://github.com/JingwenTian/awesome-frontend)||
 
 
 ##辅助工具
