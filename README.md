@@ -44,7 +44,7 @@ Web-Resources
 |[mobileTech](https://github.com/jtyjty99999/mobileTech)|收集的移动端开发资料贴|[百度前端技术学院](https://github.com/wwsun/fe-knowledge-points)|培训中推荐的资料|
 |[前端图谱](https://github.com/duyuhe/fks)|[JS算法](https://github.com/LukeLin/data-structure-with-js)|[知识列表](https://platform.html5.org/)||
 |[css问题](https://github.com/davidtheclark/scalable-css-reading-list)|必看[CSS](https://github.com/AllThingsSmitty/must-watch-css)知识|[远程协作](https://github.com/duyuhe/remote-working)|[简历模板](https://github.com/duyuhe/ResumeSample)|
-|[iOS](https://github.com/Aufree/trip-to-iOS)|iOS学习资料|[Swift](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)|Swift学习资料|
+|[iOS](https://github.com/Aufree/trip-to-iOS)|iOS学习资料,[Swift](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)|[React](https://github.com/ele828/react-native-guide)|Swift学习资料|
 
 
 
@@ -88,7 +88,7 @@ Web-Resources
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
 |[思维导图](http://naotu.baidu.com/edit.html)||[cssgrace](https://github.com/duyuhe/cssgrace)|css编辑器，自动扩展HACK|
-|[前端工具](https://www.codefellows.org/blog/a-list-of-foundational-javascript-tools)|[Chrome工具](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)|[browsersync](http://www.browsersync.io/)|多浏览器测试工具|
+|[前端工具](https://www.codefellows.org/blog/a-list-of-foundational-javascript-tools)|[Chrome工具A](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)[B](https://github.com/andersonweb/DevTools-Learning)|[browsersync](http://www.browsersync.io/)|多浏览器测试工具|
 
 
 
