@@ -32,8 +32,8 @@ Web-Resources
 |名称|详细介绍|名称|详细介绍|
 | ----- | ----- | ----- | ----- |
 |[HTML5/CSS3](http://fmbip.com/litmus/)|推荐,[Bootstrap-HACK](https://github.com/cvrebert/bs-css-hacks)|[ES5/6/7支持性](http://kangax.github.io/compat-table/es5/)|推荐.|
-|[HTML/JS](http://www.quirksmode.org/compatibility.html)|兼容性,Mark下的资料|[HACK](http://browserhacks.com/)|推荐.|
-|[spec](https://github.com/duyuhe/spec)|推荐,[JS风格指南](https://github.com/airbnb/javascript/tree/es6?utm_source=javascriptweekly&utm_medium=email)|[AlloyTeam](http://alloyteam.github.io/code-guide/)|基于GitHub的规范|
+|[HTML/JS](http://www.quirksmode.org/compatibility.html)|兼容性,Mark下的资料|[HACK](http://browserhacks.com/)|推荐.[Browser JavaScript Resource](https://github.com/azu/browser-javascript-resource)|
+|[spec](https://github.com/duyuhe/spec)|推荐,[JS风格指南](https://github.com/yuche/javascript)|[AlloyTeam](http://alloyteam.github.io/code-guide/)|基于GitHub的规范|
 
 
 
